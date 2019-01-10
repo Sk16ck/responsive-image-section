@@ -1,7 +1,16 @@
 html {
   box-sizing: border-box;
+  background-color: #e2e2e2;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+.button {
+  background-color: #555;
+  border-radius: 4px;
+  padding: 0.5em 0.75em;
+  text-align: center;
+  text-decoration: none;
 }
